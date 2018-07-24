@@ -21,4 +21,5 @@ You are only expected to handle well-formed strings (integers and operators sepa
 ============= Test ============
 
 npm install mocha
+
 node test.js
